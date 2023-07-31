@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="3" height="3"/>
+    <linearGradient id="color-0" bx:pinned="true">
+      <stop style="stop-color: rgb(179, 23, 23)"/>
+    </linearGradient>
+    <linearGradient id="color-1" bx:pinned="true">
+      <stop style="stop-color: rgb(29, 95, 207);"/>
+    </linearGradient>
+    <linearGradient id="color-2" bx:pinned="true">
+      <stop style="stop-color: rgb(71, 140, 40)"/>
+    </linearGradient>
+    <linearGradient id="color-3" bx:pinned="true">
+      <stop style="stop-color: rgb(99, 142, 216);"/>
+    </linearGradient>
+    <linearGradient id="color-4" bx:pinned="true">
+      <stop style="stop-color: rgb(131, 203, 105);"/>
+    </linearGradient>
+    <linearGradient id="color-5" bx:pinned="true">
+      <stop style="stop-color: rgb(180, 13, 166);"/>
+    </linearGradient>
+    <linearGradient id="color-6" bx:pinned="true">
+      <stop style="stop-color: rgb(71, 140, 40);"/>
+    </linearGradient>
+    <marker id="marker-0" viewBox="0 0 100 100" overflow="visible" orient="auto" refX="50" refY="50" bx:pinned="true">
+      <title>Marker1 blue</title>
+      <path d="M 198.559 168.36 L 248.559 268.36 L 148.559 268.36 L 198.559 168.36 Z" style="fill: url(#color-1);" transform="matrix(0, 1, -1, 0, 268.360657, -148.558823)" bx:shape="triangle 148.559 168.36 100 100 0.5 0 1@e7bab32e"/>
+    </marker>
+    <marker id="marker-1" viewBox="0 0 100 100" overflow="visible" orient="auto" refX="50" refY="50" bx:pinned="true">
+      <title>Marker2 blue</title>
+      <path d="M 50 0 L 100 100 L 0 100 L 50 0 Z" style="fill: url(#color-1);" transform="matrix(0, -1, 1, 0, 0, 100)" bx:shape="triangle 0 0 100 100 0.5 0 1@019661d6"/>
+    </marker>
+    <marker id="marker-2" viewBox="0 0 100 100" overflow="visible" orient="auto" refX="50" refY="50" bx:pinned="true">
+      <title>marker2 red</title>
+      <path d="M 50 0 L 100 100 L 0 100 L 50 0 Z" style="fill: url(#color-0);" transform="matrix(0, -1, 1, 0, 0, 100)" bx:shape="triangle 0 0 100 100 0.5 0 1@019661d6"/>
+    </marker>
+    <marker id="marker-4" viewBox="0 0 100 100" overflow="visible" orient="auto" refX="50" refY="50" bx:pinned="true">
+      <title>marker1 green</title>
+      <path d="M 50 0 L 100 100 L 0 100 L 50 0 Z" style="fill: url(#color-2);" transform="matrix(0, 1, -1, 0, 100, 0)" bx:shape="triangle 0 0 100 100 0.5 0 1@019661d6"/>
+    </marker>
+    <marker id="marker-5" viewBox="0 0 100 100" overflow="visible" orient="auto" refX="50" refY="50" bx:pinned="true">
+      <title>marker 2 green</title>
+      <defs>
+        <bx:grid x="100.112" y="99.46" width="100" height="100"/>
+      </defs>
+      <path d="M 50.249 -0.062 L 100.249 99.938 L 0.249 99.938 L 50.249 -0.062 Z" style="fill: url(#color-2);" transform="matrix(0, -1, 1, 0, 0.311, 100.186996)" bx:shape="triangle 0.249 -0.062 100 100 0.5 0 1@b268ad16"/>
+    </marker>
+    <style bx:fonts="Source Sans Pro" bx:pinned="true">@import url(https://fonts.googleapis.com/css2?family=Source+Sans+Pro%3Aital%2Cwght%400%2C200%3B0%2C300%3B0%2C400%3B0%2C600%3B0%2C700%3B0%2C900%3B1%2C200%3B1%2C300%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C900&amp;display=swap);</style>
+    <style bx:fonts="Source Serif Pro">@import url(https://fonts.googleapis.com/css2?family=Source+Serif+Pro%3Aital%2Cwght%400%2C200%3B0%2C300%3B0%2C400%3B0%2C600%3B0%2C700%3B0%2C900%3B1%2C200%3B1%2C300%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C900&amp;display=swap);</style>
+    <marker id="marker-3" viewBox="0 0 100 100" overflow="visible" orient="auto" refX="50" refY="50" bx:pinned="true">
+      <title>marker 1 red</title>
+      <defs>
+        <bx:grid x="200.269" y="199.361" width="100" height="100"/>
+      </defs>
+      <path d="M 50 0 L 100 100 L 0 100 L 50 0 Z" style="fill: url(#color-0);" transform="matrix(0, 1, -1, 0, 100, 0)" bx:shape="triangle 0 0 100 100 0.5 0 1@019661d6"/>
+    </marker>
+    <marker id="marker-6" viewBox="0 0 100 100" overflow="visible" orient="auto" refX="50" refY="50" bx:pinned="true">
+      <title>marker 2 yellow</title>
+      <defs>
+        <bx:grid x="16.549" y="-2.092" width="100" height="100"/>
+      </defs>
+      <path d="M -50 -100 L 0 0 L -100 0 L -50 -100 Z" style="fill: url(#color-6);" transform="matrix(0, -1, 1, 0, 100, 0)" bx:shape="triangle -100 -100 100 100 0.5 0 1@498e7c65"/>
+    </marker>
+    <marker id="marker-7" viewBox="0 0 100 100" overflow="visible" orient="auto" refX="50" refY="50" bx:pinned="true">
+      <title>marker 1 yellow</title>
+      <path d="M 50 0 L 100 100 L 0 100 L 50 0 Z" style="fill: url(#color-6);" transform="matrix(0, 1, -1, 0, 100, 0)" bx:shape="triangle 0 0 100 100 0.5 0 1@019661d6"/>
+    </marker>
+  </defs>
+  <path style="stroke: rgb(0, 0, 0); stroke-width: 0.2px; fill: rgba(0, 0, 0, 0.07);" d="M 219 24 L 219 57 L 189 117 L 204 117 L 210 108 L 216 117 L 231 117 L 222 99 L 240 60 L 252 78 L 243 117 L 258 117 L 264 81 L 285 117 L 303 117 L 261 54 L 261 24 L 219 24 Z"/>
+  <path d="M 262.226 72 C 262.226 72 243 36 240 29.967 L 212.857 90.635" style="paint-order: fill; fill: none; stroke-linecap: round; stroke: rgb(97, 97, 97);"/>
+  <line style="fill: none; stroke-linecap: round; stroke-width: 0.85px; stroke: rgb(97, 97, 97);" x1="212.857" y1="90.635" x2="193.329" y2="116.371"/>
+  <line style="paint-order: fill; fill: none; stroke-linecap: round; stroke-width: 0.85px; stroke: rgb(97, 97, 97);" x1="262.226" y1="72" x2="244.899" y2="116.343"/>
+  <line style="fill: none; stroke-linecap: round; stroke-width: 0.85px; stroke: rgb(97, 97, 97);" x1="262.226" y1="72" x2="300" y2="116.343"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 2; stroke-width: 0.15px;" x1="186" y1="60" x2="268.533" y2="60"/>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Source Sans Pro&quot;; font-size: 5.5px; white-space: pre;" x="-3" y="-0.431"><tspan x="176" y="59.424" style="font-size: 5.5px; word-spacing: 0px;">T</tspan><tspan style="font-size: 3px; word-spacing: 0px;">VWXY</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Source Sans Pro&quot;; font-size: 6px; font-weight: 900; white-space: pre;" x="195.06" y="125.892">V</text>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Source Sans Pro&quot;; font-size: 6px; font-weight: 900; white-space: pre;" x="222" y="125.892">W</text>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Source Sans Pro&quot;; font-size: 6px; font-weight: 900; white-space: pre;" x="249.06" y="125.892">V</text>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Source Sans Pro&quot;; font-size: 6px; font-weight: 900; white-space: pre;" x="294" y="125.892">W</text>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Source Serif Pro&quot;; font-size: 4px; white-space: pre;" y="1"><tspan x="192" y="120.756" style="font-size: 4px; word-spacing: 0px;">v</tspan><tspan style="font-size: 2px; word-spacing: 0px;">1</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Source Serif Pro&quot;; font-size: 4px; white-space: pre;" y="1" x="1"><tspan x="199.921" y="120.758" style="font-size: 4px; word-spacing: 0px;">v</tspan><tspan style="font-size: 2px; word-spacing: 0px;">2</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Source Serif Pro&quot;; font-size: 4px; white-space: pre;" y="1"><tspan x="218.187" y="120.756" style="font-size: 4px; word-spacing: 0px;">w</tspan><tspan style="font-size: 2px; word-spacing: 0px;">1</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Source Serif Pro&quot;; font-size: 4px; white-space: pre;" y="1" x="3"><tspan x="225.692" y="120.756" style="font-size: 4px; word-spacing: 0px;">w</tspan><tspan style="font-size: 2px; word-spacing: 0px;">2</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Source Serif Pro&quot;; font-size: 4px; white-space: pre;" y="0.998" x="-5.087"><tspan x="243.913" y="120.756" style="font-size: 4px; word-spacing: 0px;">v</tspan><tspan style="font-size: 2px; word-spacing: 0px;">1</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Source Serif Pro&quot;; font-size: 4px; white-space: pre;" y="0.258" x="9.138"><tspan x="298.92" y="120.016" style="font-size: 4px; word-spacing: 0px;">w</tspan><tspan style="font-size: 2px; word-spacing: 0px;">2</tspan></text>
+  <path style="fill: rgb(216, 216, 216); stroke-width: 0.85px; stroke-linecap: round; stroke: rgb(97, 97, 97);" d="M 211.145 102 L 201 116.343"/>
+  <path style="fill: rgb(216, 216, 216); stroke-linecap: round; stroke-width: 0.85px; stroke: url(#color-5);" d="M 215.358 96 L 211.145 102"/>
+  <line style="fill: none; stroke-linecap: round; stroke-width: 0.85px; stroke: rgb(97, 97, 97);" x1="212.857" y1="90.635" x2="225.902" y2="116.343"/>
+  <line style="fill: rgb(216, 216, 216); stroke-linecap: round; stroke-width: 0.85px; stroke: rgb(97, 97, 97);" x1="218.187" y1="116.343" x2="211.145" y2="102"/>
+  <text style="fill: url(#color-1); font-family: &quot;Source Sans Pro&quot;; font-size: 6px; font-weight: 700; paint-order: stroke; stroke: rgb(255, 255, 255); stroke-width: 0.1px; white-space: pre;" x="-54.682" y="-0.44"><tspan x="217.318" y="95.105" style="font-size: 6px; word-spacing: 0px;">π</tspan><tspan style="font-size: 3px; word-spacing: 0px;">w</tspan></text>
+  <polyline style="fill: none; stroke-linecap: round; stroke-width: 0.85px; stroke-dasharray: 1, 3; stroke: url(#color-0); marker-end: url(#marker-3); marker-start: url(#marker-2);" points="191.078 115.595 210.554 90 214.152 95.157 199.142 115.595"/>
+  <text style="fill: url(#color-2); font-family: &quot;Source Sans Pro&quot;; font-size: 6px; font-weight: 700; paint-order: stroke; stroke: rgb(255, 255, 255); stroke-width: 0.1px; white-space: pre;"><tspan x="228.922" y="31.88">D</tspan><tspan style="font-size: 3px;">VX</tspan></text>
+  <polyline style="fill: none; stroke: url(#color-6); stroke-linecap: round; stroke-dasharray: 1, 3; stroke-linejoin: round; marker-start: url(#marker-6); marker-end: url(#marker-7);" points="229.686 58.424 241.716 30 256.913 58.547"/>
+  <text style="fill: url(#color-6); font-family: &quot;Source Sans Pro&quot;; font-size: 6px; font-weight: 700; paint-order: stroke; stroke: rgb(255, 255, 255); stroke-width: 0.1px; white-space: pre;" x="-1" y="-1"><tspan x="251.829" y="47.287" style="font-size: 6px; word-spacing: 0px;">π</tspan><tspan style="font-size: 3px; font-weight: 400; word-spacing: 0px;">Anc</tspan></text>
+  <polyline style="fill: none; stroke-width: 0.85px; marker-start: url(#marker-1); marker-end: url(#marker-0); stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 1, 3; stroke: url(#color-1);" points="219.951 115.595 212.857 102.016 217.452 96 228 115.595"/>
+  <text style="fill: url(#color-0); font-family: &quot;Source Sans Pro&quot;; font-size: 6px; font-weight: 700; paint-order: stroke; stroke: rgb(255, 255, 255); stroke-width: 0.1px; white-space: pre;"><tspan x="198" y="95.105">π</tspan><tspan style="font-size: 3px; font-weight: 600;">v</tspan></text>
+  <line style="fill: rgba(0, 0, 0, 0.07); stroke: rgb(97, 97, 97); stroke-linecap: round; stroke-width: 0.85px;" x1="255" y1="90.635" x2="255" y2="116.343"/>
+  <line style="fill: none; stroke: rgb(97, 97, 97); stroke-linecap: round; stroke-width: 0.85px; paint-order: fill;" x1="284.045" y1="97.54" x2="288" y2="116.343"/>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Source Serif Pro&quot;; font-size: 4px; white-space: pre;" y="0.915" x="4.567"><tspan x="253.567" y="120.673" style="font-size: 4px; word-spacing: 0px;">v</tspan><tspan style="font-size: 2px; word-spacing: 0px;">2</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Source Serif Pro&quot;; font-size: 4px; white-space: pre;" y="0.258" x="-2.828"><tspan x="286.954" y="120.016" style="font-size: 4px; word-spacing: 0px;">w</tspan><tspan style="font-size: 2px; word-spacing: 0px;">1</tspan></text>
+  <text style="fill: url(#color-1); font-family: &quot;Source Sans Pro&quot;; font-size: 6px; font-weight: 700; paint-order: stroke; stroke: rgb(255, 255, 255); stroke-width: 0.1px; white-space: pre;" x="19.185" y="9.344"><tspan x="291.185" y="104.889" style="font-size: 6px; word-spacing: 0px;">π</tspan><tspan style="font-size: 3px; word-spacing: 0px;">w</tspan></text>
+  <polyline style="fill: none; stroke-width: 0.85px; marker-start: url(#marker-1); marker-end: url(#marker-0); stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 1, 3; stroke: url(#color-1);" points="290.002 115.622 286.143 102 297 115.708"/>
+  <polyline style="fill: none; stroke-linecap: round; stroke-width: 0.85px; stroke-dasharray: 1, 3; stroke: url(#color-0); marker-start: url(#marker-2); marker-end: url(#marker-3);" points="246.933 115.708 253.567 97.54 253.567 115.595"/>
+  <text style="fill: url(#color-0); font-family: &quot;Source Sans Pro&quot;; font-size: 6px; font-weight: 700; paint-order: stroke; stroke: rgb(255, 255, 255); stroke-width: 0.1px; white-space: pre;"><tspan x="244.899" y="98.88">π</tspan><tspan style="font-size: 3px; font-weight: 600;">v</tspan></text>
+</svg>
